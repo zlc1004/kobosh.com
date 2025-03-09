@@ -4,10 +4,7 @@
 
 also
 
-kobosh.xyz
-
-koboshjoei.xyz
-
-koboshjoeitruth.xyz
-
-kobosh.eth
+- kobosh.xyz
+- koboshjoei.xyz
+- koboshjoeitruth.xyz
+- kobosh.eth
