@@ -2,9 +2,14 @@
 
 [kobosh.com](https://kobosh.com) link
 
-also
+Made by koboshkobosh(lucasz228) - Proudly, one of the founders of the Kobosh Joei Truth, since 2023
 
-- kobosh.xyz
-- koboshjoei.xyz
-- koboshjoeitruth.xyz
-- kobosh.eth
+kobosh.com
+kobosh.xyz
+kobosh.gay
+kobosh.wtf
+iminthethickofit.xyz
+
+erc20: kobosh.eth
+
+AW
