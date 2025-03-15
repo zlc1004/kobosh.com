@@ -14,3 +14,5 @@ Made by koboshkobosh(lucasz228) - Proudly, one of the founders of the Kobosh Joe
 erc20: kobosh.eth
 
 AW
+
+reopter.. pls dont report again..
