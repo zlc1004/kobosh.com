@@ -13,3 +13,5 @@ kobosh
 joei
 
 truth
+
+ni
