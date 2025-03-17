@@ -4,4 +4,12 @@ kobosh
 
 oobosh
 
-ooo
+o
+
+i love aw
+
+kobosh
+
+joei
+
+truth
