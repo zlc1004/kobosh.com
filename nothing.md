@@ -19,5 +19,5 @@ kobosh
 koboshobosh##=..=(.#snejdbdjd
 
 dhdbdudhd
-d
+
 didjdjd
