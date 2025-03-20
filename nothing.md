@@ -16,7 +16,7 @@ truth
 
 kobosh
 
-koboshobosh##=..=(.#snejdbdjd
+koboshobosh##=..=(.#snejdbdjd ni
 
 dhdbdudhd
 
