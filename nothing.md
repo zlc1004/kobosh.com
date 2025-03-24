@@ -19,5 +19,3 @@ kobosh
 koboshobosh##=..=(.#snejdbdjd ni
 
 dhdbdudhd
-
-opooufgh
