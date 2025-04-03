@@ -16,3 +16,5 @@ erc20: kobosh.eth
 reopter.. pls dont report again..
 
 bro my discord acc kepps bann bruhh
+
+bro my streak :sob:
