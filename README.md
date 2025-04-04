@@ -18,3 +18,5 @@ reopter.. pls dont report again..
 bro my discord acc kepps bann bruhh
 
 bro my streak :sob: ##
+
+... im sorry guys.. i really am
