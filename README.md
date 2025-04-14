@@ -2,7 +2,7 @@
 
 [kobosh.com](https://kobosh.com) link
 
-Made by koboshkobosh(lucasz228) - Proudly, one of the founders of the Kobosh Joei Truth, since 2023
+Made by lucasz228 - Proudly, one of the founders of the Kobosh Joei Truth, since 2023
 
 > more:
 
