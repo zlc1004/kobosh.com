@@ -2,7 +2,7 @@
 
 ## kobosh
 
-### noun
+### kobosh:noun
 
 > The name of the "Kobosh Joei Truth".
 
@@ -10,7 +10,7 @@ example:
 
 > "Kobosh" is a term used in the context of the Kobosh Joei Truth.
 
-### verb
+### kobosh:verb
 
 > Depending on the context, it can mean to "finish quickly", or to "lock in".
 
@@ -19,7 +19,7 @@ example:
 > I koboshed this task in no time. \
 > I need to kobosh so I can finish this project.
 
-### adjective
+### kobosh:adjective
 
 > Something that is good, or someone that is smart, successful, or skilled.
 
@@ -31,7 +31,7 @@ example:
 
 ## kobosher
 
-### noun
+### kobosher:noun
 
 > Someone who is bad at something, or someone who is not smart, unsuccessful, or not skilled.
 
@@ -42,7 +42,7 @@ example:
 
 ## koboshier
 
-### noun
+### koboshier:noun
 
 > Someone that is a member of the Kobosh Joei Truth.
 
@@ -53,7 +53,7 @@ example:
 
 ## joei
 
-### noun
+### joei:noun
 
 > A group, or organization.
 
@@ -61,7 +61,7 @@ example:
 
 > "The Kobosh Joei Truth is a group of people who are dedicated to the cause."
 
-### verb
+### joei:verb
 
 > To gather people, or to unite.
 
@@ -71,7 +71,7 @@ example:
 
 ## crowbar
 
-### noun
+### crowbar:noun
 
 > Around 15 dollars.
 
