@@ -31,7 +31,7 @@ example:
 
 ## kobosher
 
-### kobosher:noun
+### kobosher:noun/adjective
 
 > Someone who is bad at something, or someone who is not smart, unsuccessful, or not skilled.
 
@@ -40,16 +40,16 @@ example:
 > "This kobosher is not going to make it." \
 > "Don't be such a kobosher, you can do better, kobosh!"
 
-## koboshier
+## koboshian
 
-### koboshier:noun
+### koboshian:noun
 
 > Someone that is a member of the Kobosh Joei Truth.
 
 example:
 
-> "This koboshier is really dedicated to the cause." \
-> "Koboshier are known for their commitment and skill."
+> "This koboshian is really dedicated to the cause." \
+> "Koboshians are known for their commitment and skill."
 
 ## joei
 
