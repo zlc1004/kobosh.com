@@ -83,8 +83,8 @@ example:
 
 ### connavon:noun
 
-> Persian gangster teens that hang out in the Mc.Donald's.
+> Persian gangster teens that hang out in some Mc.Donald's.
 
 example:
 
-> "The connavons are always hanging out at the McDonald's after school."
+> "The connavons are always hanging out at that McDonald's after school."
