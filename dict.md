@@ -78,3 +78,13 @@ example:
 example:
 
 > "This item is worth a crowbar."
+
+## connavon
+
+### connavon:noun
+
+> Persian gangster teens that hang out in the Mc.Donald's.
+
+example:
+
+> "The connavons are always hanging out at the McDonald's after school."
