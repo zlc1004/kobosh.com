@@ -83,8 +83,14 @@ example:
 
 ### connavon:noun
 
-> Persian gangster teens that hang out in some Mc.Donald's.
+> Persian gangster teens (male) that hang out in some McDonald's.
+> Plural: connavonts.
+
+### connavan:noun
+
+> Persian gangster teens (female) that hang out in some McDonald's.
+> Plural: connavants.
 
 example:
 
-> "The connavons are always hanging out at that McDonald's after school."
+> "The connavonts are always hanging out at that McDonald's after school."
